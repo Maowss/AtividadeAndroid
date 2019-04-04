@@ -9,8 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/TemaSemBarra">
-        <activity android:name=".LoginBandioActivity"></activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".FormSingUpActivity"></activity>
+        <activity android:name=".LoginBandioActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
