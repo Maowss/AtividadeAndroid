@@ -6,5 +6,6 @@
     <color name="fundo">#D9FA315B</color>
     <color name="texto">#fff</color>
     <color name="botao">#FE1743</color>
+    <color name="botaocam">#80CCC3C3</color>
     <color name="textoFundo">#D6CBCD</color>
 </resources>
